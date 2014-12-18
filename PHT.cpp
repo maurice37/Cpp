@@ -29,3 +29,10 @@ int main(int argc, char const *argv[]){
 	}
 	return 0;
 }
+
+
+/*
+Still have to solve this problem using the getchar_unlocked method
+
+
+*/
